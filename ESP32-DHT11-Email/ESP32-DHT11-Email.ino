@@ -3,13 +3,13 @@
 #include <DHT.h>
 
 // WiFi Credentials
-#define WIFI_SSID "project"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // Gmail Credentials
-#define AUTHOR_EMAIL "itshemasri@gmail.com"
-#define AUTHOR_PASSWORD "rtxbyzbycbtatntr"
-#define RECIPIENT_EMAIL "23cse055@vcew.ac.in"
+#define AUTHOR_EMAIL ""
+#define AUTHOR_PASSWORD ""
+#define RECIPIENT_EMAIL ""
 
 // DHT11 Configuration
 #define DHTPIN 4
