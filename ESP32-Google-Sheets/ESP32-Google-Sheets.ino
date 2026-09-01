@@ -6,7 +6,7 @@
 const char* ssid = "";
 const char* password = "";
 
-// Google Apps Script ID
+// Google Apps Script ID 
 String GOOGLE_SCRIPT_ID = "";
 
 // DHT11 Settings 
