@@ -2,7 +2,7 @@
 #include <ESP_Mail_Client.h>
 #include <DHT.h>
 
-// WiFi Credentials
+// WiFi Credentials 
 #define WIFI_SSID ""
 #define WIFI_PASSWORD ""
 
