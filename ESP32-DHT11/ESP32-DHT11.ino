@@ -9,7 +9,7 @@ void setup() {
   Serial.begin(115200);
   dht.begin();
 }
-
+ 
 void loop() {
   float temp = dht.readTemperature();
   float hum = dht.readHumidity();
