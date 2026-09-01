@@ -9,7 +9,7 @@ const char* password = "";
 // Google Apps Script ID
 String GOOGLE_SCRIPT_ID = "";
 
-// DHT11 Settings
+// DHT11 Settings 
 #define DHTPIN 4
 #define DHTTYPE DHT11
 
